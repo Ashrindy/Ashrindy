@@ -1,6 +1,6 @@
 <h1 align="center">Ashrindy</h1>
 
-<h3 align="center">A developer that is in love with C# but hates UE5, though he still uses it</h3>
+<h3 align="center">A developer that is in love with C# and hates UE5, though he still uses it</h3>
 <h5 align="center">Sonic Enthusiast, Bloons TD Addict</h5>
 
 <br>
