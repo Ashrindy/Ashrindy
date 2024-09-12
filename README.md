@@ -19,8 +19,6 @@
     <a href="https://github.com/Ashrindy/AshDump">
       <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashrindy&repo=AshDump&show_icons=true&title_color=3ad5f8&text_color=0692b1&icon_color=3ad5f8&bg_color=181818" />
     </a>
-    <br>
-    <br>
     <a href="https://github.com/Ashrindy/AshDumpLib">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashrindy&repo=AshDumpLib&show_icons=true&title_color=3ad5f8&text_color=0692b1&icon_color=3ad5f8&bg_color=181818" />
     </a>
