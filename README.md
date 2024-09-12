@@ -12,14 +12,14 @@
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h1 align="center">Great Projects of Mine</h1>
-<p align="center">
+<p>
     <a href="https://github.com/Ashrindy/DiEventLib">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashrindy&repo=DiEventLib&show_icons=true&title_color=3ad5f8&text_color=0692b1&icon_color=3ad5f8&bg_color=181818" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashrindy&repo=DiEventLib&show_icons=true&title_color=3ad5f8&text_color=0692b1&icon_color=3ad5f8&bg_color=181818" />
     </a>
     <a href="https://github.com/Ashrindy/AshDump">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashrindy&repo=AshDump&show_icons=true&title_color=3ad5f8&text_color=0692b1&icon_color=3ad5f8&bg_color=181818" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashrindy&repo=AshDump&show_icons=true&title_color=3ad5f8&text_color=0692b1&icon_color=3ad5f8&bg_color=181818" />
     </a>
     <a href="https://github.com/Ashrindy/AshDumpLib">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashrindy&repo=AshDumpLib&show_icons=true&title_color=3ad5f8&text_color=0692b1&icon_color=3ad5f8&bg_color=181818" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashrindy&repo=AshDumpLib&show_icons=true&title_color=3ad5f8&text_color=0692b1&icon_color=3ad5f8&bg_color=181818" />
     </a>
 </p>
